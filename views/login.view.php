@@ -1,0 +1,1 @@
+<script src="js/partials/login.js"></script>
