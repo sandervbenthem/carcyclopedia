@@ -1,5 +1,5 @@
 {
-  "name": "guitartists",
+  "name": "carcyclopedia",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyVersteeg/guitartists.git"
+    "url": "git+https://github.com/sandervbenthem/carcyclopedia.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Sander",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TobyVersteeg/guitartists/issues"
+    "url": "https://github.com/sandervbenthem/carcyclopedia/issues"
   },
-  "homepage": "https://github.com/TobyVersteeg/guitartists#readme",
-  "dependencies": {
-    "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1"
-  }
+  "homepage": "https://github.com/sandervbenthem/carcyclopedia#readme"
 }

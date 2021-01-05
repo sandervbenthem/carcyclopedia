@@ -1,14 +1,10 @@
 {
-    "autoload": {
-
-        "classmap": [
-
-            "./"
-
-        ]
-    },
-    "require": {
-        "vlucas/phpdotenv": "^5.2",
-        "plasticbrain/php-flash-messages": "^1.0"
-    }
+    "name": "sander/carcyclopedia",
+    "authors": [
+        {
+            "name": "sandervbenthem",
+            "email": "sandervanbenthem94@gmail.com"
+        }
+    ],
+    "require": {}
 }
